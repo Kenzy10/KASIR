@@ -91,7 +91,7 @@ CREATE TABLE `member` (
 /*Data for the table `member` */
 
 insert  into `member`(`id_member`,`nm_member`,`alamat_member`,`telepon`,`email`,`gambar`,`NIK`) values 
-(1,'Fauzan Falah','uj harapan','081234567890','example@gmail.com','unnamed.jpg','12314121');
+(1,'Nurrasya','uj harapan','087832599242','example@gmail.com','unnamed.jpg','12314121');
 
 /*Table structure for table `nota` */
 
